@@ -16,6 +16,8 @@
 </head>
 <body>
 <!--  The Header section with the navigation menu -->
+
+
 <header class= "container">
 	<div id="header1" class="row">
 		<h1 class ="col-sm-4"><img src="logo.png"/></h1>
